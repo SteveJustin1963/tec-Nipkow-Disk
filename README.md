@@ -3,7 +3,8 @@ tec1 controlling a Nipkow-disk
 
 
 ## What does the Nipkow disk do?
-![images](https://user-images.githubusercontent.com/58069246/209484786-c2d2271a-3512-491b-b2ce-fddb3593f546.jpg)
+ 
+![Screen-Shot-2016-02-26-at-1 24 16-PM](https://user-images.githubusercontent.com/58069246/209484888-ad89eda6-97f7-432d-a0d7-aa0b2bf018ad.png)
 
 The Nipkow disk, also known as a scanning disk, is a mechanical device that was used in early television systems to scan an image and convert it into an electrical signal. It was invented by Paul Gottlieb Nipkow in 1884 and is named after him. The Nipkow disk is central to the design of modern spinning disk confocal microscopes, as it is used to dissect an image into a linear analog signal that can be electronically transmitted and then reassembled at a remote site.
 
