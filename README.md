@@ -12,6 +12,10 @@ The Nipkow disk consists of a disk with a series of holes arranged in a spiral p
 
 The Nipkow disk was an important early development in the history of television, as it was the first device capable of scanning an image and converting it into an electrical signal. However, it had several limitations, including a low scan rate and low resolution, which made it impractical for use in modern television systems. Despite these limitations, the Nipkow disk remains an important piece of technological history and is still used in some educational and research applications, including in modern spinning disk confocal microscopes.
 
+## Television News 1931 March-April  "How to Build a Home Televisor: A Brand New Thrill" written by H. G. Cisin, M.E.  
+
+The article  discusses the construction of a television receiver using a kit provided by the Jenkins Television Corporation. The design of the receiver includes features such as a band-pass filter for tuning to a specific frequency range, an extra stage of radio frequency for increased sensitivity, and shielding and resistance coupling in the audio amplifier. The instructions for building the receiver provide detailed steps for assembling and attaching various components, including electromagnets, coils, shafts, ball bearings, and screws. The importance of properly adjusting the distance between the rotor and magnet cores is also emphasized. The receiver can be synchronized using an "eddy current" motor, a speed-control rheostat, or an automatic synchronizer, and it uses a neon lamp in the lamp house.
+
 
 
 ## Ref 
