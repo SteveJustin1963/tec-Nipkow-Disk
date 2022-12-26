@@ -22,3 +22,7 @@ The article  discusses the construction of a television receiver using a kit pro
 
 ## Ref 
 - https://en.wikipedia.org/wiki/Nipkow_disk
+- https://worldradiohistory.com/Archive-Television-News/Television-News-1931-Mar-Apr.pdf
+- https://www.youtube.com/watch?v=gTvPC_hkeGs&ab_channel=TechnologyConnections
+- https://create.arduino.cc/projecthub/christopheArduino/nipkow-disk-based-digital-display-device-2cc98a
+- 
