@@ -18,6 +18,8 @@ The Nipkow disk was an important early development in the history of television,
 
 The article  discusses the construction of a television receiver using a kit provided by the Jenkins Television Corporation. The design of the receiver includes features such as a band-pass filter for tuning to a specific frequency range, an extra stage of radio frequency for increased sensitivity, and shielding and resistance coupling in the audio amplifier. The instructions for building the receiver provide detailed steps for assembling and attaching various components, including electromagnets, coils, shafts, ball bearings, and screws. The importance of properly adjusting the distance between the rotor and magnet cores is also emphasized. The receiver can be synchronized using an "eddy current" motor, a speed-control rheostat, or an automatic synchronizer, and it uses a neon lamp in the lamp house.
 
+## Project
+let the tec1 have a crack at it
 
 
 ## Ref 
