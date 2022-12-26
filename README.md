@@ -25,4 +25,6 @@ The article  discusses the construction of a television receiver using a kit pro
 - https://worldradiohistory.com/Archive-Television-News/Television-News-1931-Mar-Apr.pdf
 - https://www.youtube.com/watch?v=gTvPC_hkeGs&ab_channel=TechnologyConnections
 - https://create.arduino.cc/projecthub/christopheArduino/nipkow-disk-based-digital-display-device-2cc98a
+- https://www.youtube.com/watch?v=SKmy9s6t3hs&t=0s&ab_channel=DIYCool
+- https://create.arduino.cc/projecthub/christopheArduino/nipkow-disk-32-line-television-507ec4?ref=user&ref_id=441351&offset=0
 - 
